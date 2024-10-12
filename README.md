@@ -14,7 +14,7 @@
  
 <br>
  
-### Quer acompanhar a minha jornada de programador? Me segue ai nas redes sociais abaixo. 
+### Quer acompanhar a minha jornada de programador? Me siga nas redes sociais abaixo. 
  
 <div> 
   <a href="https://www.youtube.com/@rfac-coder" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
